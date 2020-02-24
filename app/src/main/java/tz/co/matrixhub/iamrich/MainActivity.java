@@ -1,7 +1,5 @@
 package tz.co.matrixhub.iamrich;
-
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
